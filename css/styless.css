@@ -21,18 +21,21 @@
 }
 
 body{
-	background-image: 
+    background-image: url("../images/wavy-smooth-lines-pattern-background_1017-14206.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .boxje{
     background-color: #F39092;
-    width: 800px;
+    width: 1081px;
     height: 800px;
     padding-right: 21px;
     padding-top: 21px;
     padding-bottom: 21px;
     padding-left: 21px;
-   
+    margin-left: 187px;
+    margin-right: 187px;
 }
 
 #imagess{
