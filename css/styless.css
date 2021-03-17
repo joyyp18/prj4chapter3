@@ -4,14 +4,24 @@
     background-color: #8D99BA;
     height: 80px;
     padding-top: 40px;
-    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-family:'Inconsolata', monospace;
     text-align: center;
     font-size: xx-large;
     letter-spacing: 7px;
 }
 
+.foother{
+    background-color:#AAA2A2;
+    height: 30px;
+    padding-top: 10px;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    letter-spacing: 7px;
+    font-size: medium;
+}
+
 body{
-    background;	
+	background-image: 
 }
 
 .boxje{
@@ -22,7 +32,7 @@ body{
     padding-top: 21px;
     padding-bottom: 21px;
     padding-left: 21px;
-    margin-left: 303px;
+   
 }
 
 #imagess{
