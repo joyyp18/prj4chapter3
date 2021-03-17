@@ -1,0 +1,39 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+.heather{
+    background-color: #8D99BA;
+    height: 80px;
+    padding-top: 40px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    text-align: center;
+    font-size: xx-large;
+    letter-spacing: 7px;
+}
+
+body{
+    background;	
+}
+
+.boxje{
+    background-color: #F39092;
+    width: 800px;
+    height: 800px;
+    padding-right: 21px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    padding-left: 21px;
+    margin-left: 303px;
+}
+
+#imagess{
+    width: 300px;
+    float: left;
+    padding-left: 14px;
+    padding-top: 2px;
+    margin-top: -17px;
+    padding-right: 16px;
+}
+
+#texth2{
+    margin-left: 327px;
+}
